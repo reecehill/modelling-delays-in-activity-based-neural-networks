@@ -1,1 +1,1 @@
-![Alt text]("https://raw.githubusercontent.com/reecehill/modelling-delays-in-activity-based-neural-networks/81a28446d7601e6b66cdcb00d7f88c9e6ec38540/final-poster.pdf.2022_01_13_23_42_26.0.svg")
+![PBM A1 Poster (841 x 594 mm)](https://github.com/user-attachments/assets/f2b32b94-817c-45c2-b381-aff25621593d)
